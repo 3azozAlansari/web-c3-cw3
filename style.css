@@ -1,0 +1,12 @@
+.text-color 
+{color: blue;background-color: blueviolet;font-family: 'Lalezar', cursive;}
+
+
+#color
+{color: darkorange;}
+
+.align
+{ margin: auto;
+    width: 10%;
+    border: 6px solid green;
+    padding: 10px;}
